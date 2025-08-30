@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": [
+    {
+      "item": "aloof:smooth_pumice"
+    },
+    {
+      "item": "aloof:polished_pumice"
+    }
+  ],
+  "result": "aloof:polished_pumice_stairs"
+}

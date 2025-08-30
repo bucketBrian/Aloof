@@ -1,0 +1,27 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "clayworks:config",
+          "value": "kiln"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "clayworks"
+        }
+      ],
+      "recipe": {
+        "type": "clayworks:baking",
+        "category": "blocks",
+        "cookingtime": 100,
+        "experience": 0.1,
+        "ingredient": {
+          "item": "aloof:pumice"
+        },
+        "result": "aloof:smooth_pumice"
+      }
+    }
+  ]
+}

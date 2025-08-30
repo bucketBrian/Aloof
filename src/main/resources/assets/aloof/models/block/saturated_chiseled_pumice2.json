@@ -1,0 +1,9 @@
+{
+  "parent": "aloof:block/emissive_cube_column",
+  "textures": {
+    "end": "aloof:block/saturated_chiseled_pumice_top",
+    "side": "aloof:block/saturated_chiseled_pumice_side2",
+    "emissive_end": "aloof:block/saturated_chiseled_pumice_top_emissive",
+    "emissive_side": "aloof:block/saturated_chiseled_pumice_side2_emissive"
+  }
+}

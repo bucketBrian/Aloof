@@ -1,0 +1,26 @@
+{
+  "item.aloof.luffa_seeds": "Graines de courge éponge",
+
+  "block.aloof.luffa_gourd": "Courge éponge",
+  "block.aloof.luffa_sponge": "Éponge naturelle",
+  "block.aloof.wet_luffa_sponge": "Éponge naturelle trempée",
+  "block.aloof.shriveled_luffa_sponge": "Éponge naturelle asséchée",
+  "block.aloof.pumice": "Pierre ponce",
+  "block.aloof.saturated_pumice": "Pierre ponce visqueuse",
+  "block.aloof.smooth_pumice": "Pierre ponce lisse",
+  "block.aloof.smooth_pumice_stairs": "Escalier en pierre ponce lisse",
+  "block.aloof.smooth_pumice_slab": "Dalle de pierre ponce lisse",
+  "block.aloof.polished_pumice": "Pierre ponce polie",
+  "block.aloof.polished_pumice_stairs": "Escalier en  pierre ponce polie",
+  "block.aloof.polished_pumice_slab": "Dalle de pierre ponce polie",
+  "block.aloof.pumice_bricks": "Briques de pierre ponce",
+  "block.aloof.pumice_brick_stairs": "Escalier en briques de pierre ponce",
+  "block.aloof.pumice_brick_slab": "Dalle de briques de pierre ponce",
+  "block.aloof.pumice_pillar": "Pilier de pierre ponce",
+  "block.aloof.saturated_pumice_bricks": "Briques de pierre ponce visqueuse",
+  "block.aloof.saturated_pumice_brick_slab": "Dalle de briques de pierre ponce visqueuse",
+  "block.aloof.saturated_pumice_brick_stairs": "Escalier en briques de pierre ponce visqueuse",
+  "block.aloof.saturated_pumice_pillar": "Pilier de pierre ponce visqueuse",
+  "block.aloof.sea_sponge": "Éponge de mer",
+  "block.aloof.sea_sponge_wall": "Éponge de mer"
+}

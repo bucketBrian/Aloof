@@ -1,0 +1,33 @@
+{
+  "modifiers": [
+    {
+      "type": "criteria",
+      "config": {
+        "criteria": {
+          "aloof:luffa": {
+            "conditions": {
+              "location": [
+                {
+                  "block": "aloof:luffa_crop",
+                  "condition": "minecraft:block_state_property"
+                }
+              ]
+            },
+            "trigger": "minecraft:placed_block"
+          }
+        },
+        "indexed_requirements": [
+          {
+            "index": 0,
+            "replace": false,
+            "requirements": [
+              "aloof:luffa"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "priority": "normal",
+  "selector": "minecraft:husbandry/plant_any_sniffer_seed"
+}

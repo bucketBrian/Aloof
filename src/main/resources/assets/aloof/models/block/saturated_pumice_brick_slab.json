@@ -1,0 +1,11 @@
+{
+  "parent": "aloof:block/emissive_slab",
+  "textures": {
+    "bottom": "aloof:block/saturated_pumice_bricks",
+    "side": "aloof:block/saturated_pumice_bricks",
+    "top": "aloof:block/saturated_pumice_bricks",
+    "emissive_bottom": "aloof:block/saturated_pumice_bricks_emissive",
+    "emissive_side": "aloof:block/saturated_pumice_bricks_emissive",
+    "emissive_top": "aloof:block/saturated_pumice_bricks_emissive"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "aloof:block/luffa_sponge_top",
+    "side": "aloof:block/luffa_sponge_side"
+  }
+}

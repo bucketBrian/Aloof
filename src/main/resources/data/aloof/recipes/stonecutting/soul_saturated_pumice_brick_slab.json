@@ -1,0 +1,21 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "netherexp"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:stonecutting",
+        "count": 2,
+        "ingredient": {
+          "item": "aloof:soul_saturated_pumice_bricks"
+        },
+        "result": "aloof:soul_saturated_pumice_brick_slab"
+      }
+    }
+  ]
+}

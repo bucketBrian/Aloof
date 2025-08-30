@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.syndicatemc.aloof.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "aloof.refmap.json",
+  "mixins": [
+    "FluidInfoAccessor",
+    "PointedDripstoneMixin"
+  ],
+  "client": [],
+  "minVersion": "0.8.5"
+}

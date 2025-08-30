@@ -1,0 +1,140 @@
+{
+  "variants": {
+    "age=0": [
+      {
+        "model": "aloof:block/luffa_crop_stage0"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage0",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage0",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage0",
+        "y": 270
+      }
+    ],
+    "age=1": [
+      {
+        "model": "aloof:block/luffa_crop_stage1"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage1",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage1",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage1",
+        "y": 270
+      }
+    ],
+    "age=2": [
+      {
+        "model": "aloof:block/luffa_crop_stage2"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage2",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage2",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage2",
+        "y": 270
+      }
+    ],
+    "age=3": [
+      {
+        "model": "aloof:block/luffa_crop_stage3"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage3",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage3",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage3",
+        "y": 270
+      }
+    ],
+    "age=4": [
+      {
+        "model": "aloof:block/luffa_crop_stage4"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage4",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage4",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage4",
+        "y": 270
+      }
+    ],
+    "age=5": [
+      {
+        "model": "aloof:block/luffa_crop_stage5"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage5",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage5",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage5",
+        "y": 270
+      }
+    ],
+    "age=6": [
+      {
+        "model": "aloof:block/luffa_crop_stage6"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage6",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage6",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage6",
+        "y": 270
+      }
+    ],
+    "age=7": [
+      {
+        "model": "aloof:block/luffa_crop_stage7"
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage7",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage7",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/luffa_crop_stage7",
+        "y": 270
+      }
+    ]
+  }
+}

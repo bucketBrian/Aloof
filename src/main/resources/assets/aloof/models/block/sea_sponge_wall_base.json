@@ -1,0 +1,29 @@
+{
+	"ambientocclusion": false,
+	"render_type": "cutout",
+	"textures": {
+		"particle": "#extension"
+	},
+	"elements": [
+		{
+			"from": [0, 2, 4],
+			"to": [16, 2, 16],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 2, 16], "rescale": true},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#extension"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#extension"}
+			}
+		},
+		{
+			"from": [0, 1, 16],
+			"to": [16, 17, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 1, 16], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#extension"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#extension"}
+			}
+		}
+	]
+}

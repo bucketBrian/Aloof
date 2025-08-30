@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "aloof:block/pumice_pillar_top",
+    "side": "aloof:block/pumice_pillar_side"
+  }
+}

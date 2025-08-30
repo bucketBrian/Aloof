@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "aloof:block/pumice_brick_slab"
+    },
+    "type=double": {
+      "model": "aloof:block/pumice_bricks"
+    },
+    "type=top": {
+      "model": "aloof:block/pumice_brick_slab_top"
+    }
+  }
+}

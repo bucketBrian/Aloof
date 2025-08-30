@@ -1,0 +1,28 @@
+{
+  "values": [
+    "aloof:pumice",
+    "aloof:saturated_pumice",
+    "aloof:soul_saturated_pumice",
+    "aloof:smooth_pumice",
+    "aloof:polished_pumice",
+    "aloof:pumice_bricks",
+    "aloof:pumice_pillar",
+    "aloof:saturated_pumice_bricks",
+    "aloof:soul_saturated_pumice_bricks",
+    "aloof:saturated_pumice_pillar",
+    "aloof:soul_saturated_pumice_pillar",
+    "aloof:smooth_pumice_slab",
+    "aloof:polished_pumice_slab",
+    "aloof:pumice_brick_slab",
+    "aloof:saturated_pumice_brick_slab",
+    "aloof:soul_saturated_pumice_brick_slab",
+    "aloof:smooth_pumice_stairs",
+    "aloof:polished_pumice_stairs",
+    "aloof:pumice_brick_stairs",
+    "aloof:saturated_pumice_brick_stairs",
+    "aloof:soul_saturated_pumice_brick_stairs",
+    "aloof:chiseled_pumice",
+    "aloof:saturated_chiseled_pumice",
+    "aloof:soul_saturated_chiseled_pumice"
+  ]
+}

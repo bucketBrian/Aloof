@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": [
+    {
+      "item": "aloof:smooth_pumice"
+    },
+    {
+      "item": "aloof:polished_pumice"
+    },
+    {
+      "item": "aloof:pumice_bricks"
+    }
+  ],
+  "result": "aloof:pumice_brick_slab"
+}

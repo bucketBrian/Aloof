@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "aloof:block/attached_luffa_crop",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "aloof:block/attached_luffa_crop"
+    },
+    "facing=south": {
+      "model": "aloof:block/attached_luffa_crop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "aloof:block/attached_luffa_crop",
+      "y": 270
+    }
+  }
+}

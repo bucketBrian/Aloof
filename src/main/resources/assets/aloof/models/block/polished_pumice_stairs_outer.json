@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "aloof:block/polished_pumice",
+    "side": "aloof:block/polished_pumice",
+    "top": "aloof:block/polished_pumice"
+  }
+}

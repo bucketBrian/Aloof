@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "aloof:block/sea_sponge"
+      },
+      {
+        "model": "aloof:block/sea_sponge_small"
+      },
+      {
+        "model": "aloof:block/sea_sponge_tiny"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "aloof:block/sea_sponge_base",
+  "textures": {
+    "extension": "aloof:block/sea_sponge_tiny",
+    "base": "aloof:block/sea_sponge_base"
+  }
+}

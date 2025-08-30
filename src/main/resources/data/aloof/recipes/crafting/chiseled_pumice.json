@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#0#",
+    "0B0",
+    "#0#"
+  ],
+  "key": {
+    "#": {
+      "item": "aloof:polished_pumice"
+    },
+    "0": {
+      "item": "aloof:pumice"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "aloof:chiseled_pumice",
+    "count": 1
+  }
+}

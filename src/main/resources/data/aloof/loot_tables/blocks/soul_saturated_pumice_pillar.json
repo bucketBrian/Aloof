@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "aloof:soul_saturated_pumice_pillar"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "aloof:blocks/soul_saturated_pumice_pillar"
+}

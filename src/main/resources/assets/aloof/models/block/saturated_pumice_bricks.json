@@ -1,0 +1,7 @@
+{
+  "parent": "aloof:block/emissive_cube_all",
+  "textures": {
+    "all": "aloof:block/saturated_pumice_bricks",
+    "emissive": "aloof:block/saturated_pumice_bricks_emissive"
+  }
+}

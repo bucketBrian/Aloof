@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "aloof:block/soul_saturated_pumice_brick_slab"
+    },
+    "type=double": {
+      "model": "aloof:block/soul_saturated_pumice_bricks"
+    },
+    "type=top": {
+      "model": "aloof:block/soul_saturated_pumice_brick_slab_top"
+    }
+  }
+}

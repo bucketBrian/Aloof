@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "aloof:block/smooth_pumice_slab"
+    },
+    "type=double": {
+      "model": "aloof:block/smooth_pumice"
+    },
+    "type=top": {
+      "model": "aloof:block/smooth_pumice_slab_top"
+    }
+  }
+}

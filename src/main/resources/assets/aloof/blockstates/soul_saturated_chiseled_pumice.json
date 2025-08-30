@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "level=1": {
+      "model": "aloof:block/soul_saturated_chiseled_pumice0"
+    },
+    "level=2": {
+      "model": "aloof:block/soul_saturated_chiseled_pumice1"
+    },
+    "level=3": {
+      "model": "aloof:block/soul_saturated_chiseled_pumice2"
+    }
+  }
+}

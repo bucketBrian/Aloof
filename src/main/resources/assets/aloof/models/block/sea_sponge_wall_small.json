@@ -1,0 +1,6 @@
+{
+  "parent": "aloof:block/sea_sponge_wall_base",
+  "textures": {
+    "extension": "aloof:block/sea_sponge_small"
+  }
+}

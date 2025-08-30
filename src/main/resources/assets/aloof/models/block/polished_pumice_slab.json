@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "aloof:block/polished_pumice",
+    "side": "aloof:block/polished_pumice_slab",
+    "top": "aloof:block/polished_pumice"
+  }
+}

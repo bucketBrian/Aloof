@@ -1,0 +1,8 @@
+{
+  "parent": "aloof:block/luffa_crop_base",
+  "textures": {
+    "sprout": "aloof:block/luffa_crop_sprouts",
+    "bottom": "aloof:block/luffa_crop_stage3",
+    "top": "aloof:block/luffa_crop_empty"
+  }
+}

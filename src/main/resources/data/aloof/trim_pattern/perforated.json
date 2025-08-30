@@ -1,0 +1,7 @@
+{
+  "asset_id": "aloof:perforated",
+  "description": {
+    "translate": "trim_pattern.aloof.perforated"
+  },
+  "template_item": "aloof:perforated_armor_trim_smithing_template"
+}

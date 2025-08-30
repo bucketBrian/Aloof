@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "facing=east": [
+      {
+        "model": "aloof:block/sea_sponge_wall",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_small",
+        "y": 90
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_tiny",
+        "y": 90
+      }
+    ],
+    "facing=north": [
+      {
+        "model": "aloof:block/sea_sponge_wall"
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_small"
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_tiny"
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "aloof:block/sea_sponge_wall",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_small",
+        "y": 180
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_tiny",
+        "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "aloof:block/sea_sponge_wall",
+        "y": 270
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_small",
+        "y": 270
+      },
+      {
+        "model": "aloof:block/sea_sponge_wall_tiny",
+        "y": 270
+      }
+    ]
+  }
+}

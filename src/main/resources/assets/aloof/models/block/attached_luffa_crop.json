@@ -1,0 +1,7 @@
+{
+  "parent": "aloof:block/luffa_crop_base_attached",
+  "textures": {
+    "sprout": "aloof:block/luffa_crop_sprouts",
+    "crop": "aloof:block/luffa_crop_attached"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "aloof:pumice_bricks"
+    }
+  },
+  "result": {
+    "item": "aloof:pumice_brick_stairs",
+    "count": 4
+  }
+}

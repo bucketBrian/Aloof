@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#L#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "aloof:pumice_pillar"
+    },
+    "L": [
+      {
+        "item": "minecraft:lava_bucket"
+      },
+      {
+        "item": "aloof:saturated_pumice"
+      }
+    ]
+  },
+  "result": {
+    "item": "aloof:saturated_pumice_pillar",
+    "count": 8
+  }
+}

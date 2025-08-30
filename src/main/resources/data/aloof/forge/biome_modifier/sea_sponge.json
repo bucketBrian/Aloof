@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#aloof:has_feature/sea_sponge",
+  "features": [
+    "aloof:patch_sea_sponge"
+  ],
+  "step": "vegetal_decoration"
+}

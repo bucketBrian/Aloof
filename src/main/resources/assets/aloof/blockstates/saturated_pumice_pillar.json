@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "aloof:block/saturated_pumice_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "aloof:block/saturated_pumice_pillar"
+    },
+    "axis=z": {
+      "model": "aloof:block/saturated_pumice_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

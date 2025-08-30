@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "netherexp"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "#L#",
+          "###"
+        ],
+        "key": {
+          "#": {
+            "item": "aloof:pumice_bricks"
+          },
+          "L": [
+            {
+              "item": "netherexp:ectoplasm_bucket"
+            },
+            {
+              "item": "aloof:soul_saturated_pumice"
+            }
+          ]
+        },
+        "result": {
+          "item": "aloof:soul_saturated_pumice_bricks",
+          "count": 8
+        }
+      }
+    }
+  ]
+}

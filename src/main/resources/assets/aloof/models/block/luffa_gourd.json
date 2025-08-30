@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "aloof:block/luffa_gourd_top",
+    "side": "aloof:block/luffa_gourd_side",
+    "bottom": "aloof:block/luffa_gourd_bottom"
+  }
+}

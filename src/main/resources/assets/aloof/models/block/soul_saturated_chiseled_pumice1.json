@@ -1,0 +1,11 @@
+{
+  "parent": "aloof:block/emissive_cube_bottom_top",
+  "textures": {
+    "top": "aloof:block/soul_saturated_chiseled_pumice_top",
+    "bottom": "aloof:block/chiseled_pumice_top",
+    "side": "aloof:block/soul_saturated_chiseled_pumice_side1",
+    "emissive_top": "aloof:block/soul_saturated_chiseled_pumice_top_emissive",
+    "emissive_bottom": "aloof:block/empty_emissive",
+    "emissive_side": "aloof:block/soul_saturated_chiseled_pumice_side1_emissive"
+  }
+}
